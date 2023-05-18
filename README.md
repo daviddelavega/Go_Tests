@@ -8,7 +8,7 @@
 # Table Tests
 # Code Coverage using go test -v -cover -coverprofile=c.out
 # Performance Benchmark Testing using Go built in functionality
-# Stubs / Mocks in Go.
+# Stubs / Mocks in Go
 # httptest
 # Integration Tests and Build Tags
 # -short Flag usage
